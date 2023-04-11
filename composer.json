@@ -1,9 +1,9 @@
 {
-  "name": "sstottelaar/crisp-resume-starter-kit",
-  "extra": {
-    "statamic": {
-      "name": "Crisp Resume Starter Kit",
-      "description": "Crisp Resume Starter Kit starter kit"
+    "name": "sstottelaar/crisp-resume-starter-kit",
+    "extra": {
+        "statamic": {
+            "name": "Crisp Resume Starter Kit",
+            "description": "Crisp Resume Starter Kit starter kit"
+        }
     }
-  }
 }
