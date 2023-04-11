@@ -1,0 +1,71 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: general_information
+        field:
+          display: 'General information'
+          type: section
+          icon: section
+          instructions: 'Fill out your personal information like name, LinkedIn profile, etc'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+      -
+        handle: title
+        field:
+          placeholder: Resume
+          input_type: text
+          antlers: false
+          display: Title
+          type: text
+          icon: text
+          instructions: 'Title that is shown is the side'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: name
+        field:
+          placeholder: 'John Doe'
+          input_type: text
+          antlers: false
+          display: Name
+          type: text
+          icon: text
+          instructions: 'Used in the sidebar'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: phone
+        field:
+          input_type: tel
+          antlers: false
+          display: Phone
+          type: text
+          icon: text
+          instructions: 'Used in the sidebar'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+      -
+        handle: email
+        field:
+          placeholder: johndoe@statamic.com
+          input_type: email
+          antlers: false
+          display: Email
+          type: text
+          icon: text
+          instructions: 'Used in the sidebar, is required'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
