@@ -1,5 +1,3 @@
-![Crisp Resume Screenshot](./docs/crisp-resume-screenshot-fade.png)
-
 # Crisp Resume Starter Kit
 
 Quickly want to spin up a great looking resume? Crisp Resume has got you covered. A fully built resume that is easy to manage and extend with Statamic.
@@ -20,6 +18,8 @@ Quickly want to spin up a great looking resume? Crisp Resume has got you covered
 - Responsive images
 - TailwindCSS
 - Fully responsive
+
+![Crisp Resume Screenshot](./docs/crisp-resume-screenshot-fade.png)
 
 ## Demo
 
