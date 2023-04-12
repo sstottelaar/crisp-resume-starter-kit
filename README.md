@@ -23,7 +23,7 @@ Quickly want to spin up a great looking resume? Crisp Resume has got you covered
 
 ## Demo
 
-I've build my own resume with Crisp (of course), which you can preview at [https://resume.sjoerdstottelaar.nl](https://resume.sjoerdstottelaar.nl).
+I've build my own resume with Crisp (of course), which you can preview at <a href="https://resume.sjoerdstottelaar.nl" target="_blank">https://resume.sjoerdstottelaar.nl</a>.
 
 ## Installation
 
@@ -36,7 +36,7 @@ I recommend only installing it into a new fresh installation.
 
 ## Guarentee
 
-I'm so confident that you'll like it that I'm offering a full refund + $5 (for your trouble) if you're not satisfied. No questions asked. Just reach out to me, links are on my personal website [https://sjoerdstottelaar.nl](https://sjoerdstottelaar.nl)
+I'm so confident that you'll like it that I'm offering a full refund + $5 (for your trouble) if you're not satisfied. No questions asked. Just reach out to me, links are on my personal website <a href="https://sjoerdstottelaar.nl" target="_blank">https://sjoerdstottelaar.nl</a>
 
 ## Having issues or found a bug?
 
