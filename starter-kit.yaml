@@ -12,5 +12,6 @@ export_paths:
   - package.json
   - tailwind.config.js
   - webpack.mix.js
+  - .prettierrc
 dependencies:
   jacksleight/statamic-bard-texstyle: ^2.1
