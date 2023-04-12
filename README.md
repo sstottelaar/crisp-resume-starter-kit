@@ -30,7 +30,7 @@ I've build my own resume with Crisp (of course), which you can preview at <a hre
 To install Crisp simply follow the [installing a starter kit guide](https://statamic.dev/starter-kits/installing-a-starter-kit]).
 
 Using the Statamic CLI tool run the following command:
-`statamic new my-site vendor/starter-kit`
+`statamic new mysite sstottelaar/crisp-resume-starter-kit`
 
 > Hot take: I recommend only installing it into a new fresh installation.
 
