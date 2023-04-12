@@ -32,7 +32,7 @@ To install Crisp simply follow the [installing a starter kit guide](https://stat
 Using the Statamic CLI tool run the following command:
 `statamic new my-site vendor/starter-kit`
 
-I recommend only installing it into a new fresh installation.
+> Hot take: I recommend only installing it into a new fresh installation.
 
 ## Guarentee
 
